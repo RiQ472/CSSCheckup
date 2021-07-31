@@ -1,0 +1,32 @@
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */
+h1{
+    text-align:center;
+}
+/**/
+body{
+    background-color: #29bfec;
+}
+
+/* 7 */
+p, h1, h2, h3{
+    border:1px solid rgb(146, 31, 111);
+}
+
+/* 4 */
+
+p{
+    font-family: "Times New Roman," Times, serifs;
+}
+
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 20px;
+}
